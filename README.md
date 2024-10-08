@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">I'm Shanu from Bihar......<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I learnig something<br>-  📷 I am human who love technology , nature and camera</h4>
+<h4 align="left">I'm Shanu from Bihar......<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning React<br> <br>-  </h4>
 
 ###
 
